@@ -1,2 +1,3 @@
-# Sorting-visualizer
-Created a web application using HTML, CSS, Javascript to visualize how various sorting algorithms work. Creating the website's User Interface (UI) using HTML, CSS. Implementation of animations, effects and core functionalities (sorting algorithms) using JavaScript.
+# Algorithm-Sorting-Visualizer
+
+This project visualizes five most commonly used sorting algorithms: bubble sort, selection sort, insertion sort, quick sort and merge sort. User could run the program on a local machine and see how each algorithm works in action, and how elements are swapped in the array to get to the sorted array in the end.  
