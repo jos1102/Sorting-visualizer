@@ -1,3 +1,5 @@
+//https://www.youtube.com/watch?v=MZaf_9IZCrc
+
 async function partitionLomuto(ele, l, r){
     console.log('In partitionLomuto()');
     let i = l - 1;
